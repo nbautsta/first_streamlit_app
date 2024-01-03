@@ -1,0 +1,2 @@
+#requiremetns.txt
+snnowflake-connector-python
